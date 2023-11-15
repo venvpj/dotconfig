@@ -213,3 +213,4 @@ smart_borders on
 
 default_border pixel 3
 
+assign [class="sublime_text"] 1
